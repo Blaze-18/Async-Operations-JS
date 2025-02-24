@@ -1,0 +1,19 @@
+Implement html
+
+Implement styles
+
+Implement JS
+    -Get User Location
+        -Get longitude and latitude(Done)
+        -Reverse Geocode longitude and latitude using OpenCage API(Done)
+        -Show Current city and location related information(Done)
+        -Use the longitude and latitude for fetching weather Data(done)
+    -Get Location Based Weather
+        -Fetch weather data Using API (DONE)
+        -Format the weather data into weather information (Done)
+        -Show weather information (Done)
+    -Implement Search based weather
+        -Get user input from form (DONE)
+        -Use and API to search for the desired city (Done)
+        -Get the weather of the desired city using previously created fetch weather function (Done)
+        -Show city and weather to the user (Done)
